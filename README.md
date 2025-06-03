@@ -2,7 +2,7 @@
 
 ## Guilherme Dias⭐
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+👋;Sou+um+estudante+de+Engenharia+de+Sofware+no+IBMEC;Apaixonado+por+Tecnologia++👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+👋;Apaixonado+por+Tecnologia++👨‍💻)](https://git.io/typing-svg)
 </div>
 
 **`Sou um desenvolvedor Full-Stack me formando na IBMEC`**  
