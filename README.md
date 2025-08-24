@@ -7,7 +7,7 @@
 
 **`Sou um desenvolvedor Full-Stack me formando na IBMEC`**  
   
-Meu nome é Guilherme, tenho 19 anos, e estou no 3º período de engenharia de software, onde sigo me preparando para ingressar no mercado de tecnologia e aplicar as habilidades que venho desenvolvendo.
+Meu nome é Guilherme, tenho 19 anos, e estou no 4º período de engenharia de software, onde sigo me preparando para ingressar no mercado de tecnologia e aplicar as habilidades que venho desenvolvendo.
 
 ## 🌐 Meus contatos
 
