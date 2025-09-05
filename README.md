@@ -29,7 +29,7 @@ Meu nome é Guilherme, tenho 19 anos, e estou no 4º período de engenharia de s
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div></br>
 
-[![graph](https://github-readme-stats.vercel.app/api?username=gl-dias&show_icons=true&theme=dark)](https://github.com/gl-dias/github-readme-stats)
+<!--[![graph](https://github-readme-stats.vercel.app/api?username=gl-dias&show_icons=true&theme=dark)](https://github.com/gl-dias/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gl-dias&theme=dark)](https://github.com/gl-dias/github-readme-stats)--> 
 
