@@ -8,7 +8,7 @@
 
 **`Crio produtos sob medida, do banco ao deploy: SaaS, sites pra clientes e experimentos.`**
 
-Sou o Guilherme, tenho 20 anos, moro no Rio de Janeiro e estou no 6º período de engenharia de software na IBMEC. Foco em construir o que ainda não existe e aprender no caminho.
+Sou o Guilherme, tenho 21 anos, moro no Rio de Janeiro e estou no 7º período de engenharia de software na IBMEC. Foco em construir o que ainda não existe e aprender no caminho.
 
 🔗 **Portfólio:** [gl-dias.pages.dev](https://gl-dias.pages.dev)
 
